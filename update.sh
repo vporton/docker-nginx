@@ -29,7 +29,7 @@ declare -A debian=(
     #[stable]='stretch'
 )
 
-defaultalpine='3.13'
+defaultalpine='3.12'
 declare -A alpine=(
     [stable]='3.11'
 )
